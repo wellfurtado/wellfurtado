@@ -43,11 +43,16 @@
 
 ###
 
+<! --
+
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/wellfurtado/wellfurtado/blob/main/snake.svg" alt="Snake animation" />
 
+-->
+
 ###
+
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wellfurtado.wellfurtado&"  />
