@@ -43,13 +43,13 @@
 
 ###
 
-<! --
+<!--
 
 <br clear="both">
 
 <img href="https://raw.githubusercontent.com/wellfurtado/wellfurtado/blob/main/snake.svg" alt="Snake animation" />
 
--- >
+-->
 
 ###
 
