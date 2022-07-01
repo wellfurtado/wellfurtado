@@ -51,6 +51,9 @@
 
 -->
 
+![Snake animation](https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake.svg)
+
+
 ###
 
 
