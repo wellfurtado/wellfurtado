@@ -35,7 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://drive.google.com/file/d/1vCvh2wrHQfqn6uSfSXEwZ1GeosFPLvw2/view?usp=sharing"  />
+<img align="right" height="150" src="https://github.com/wellfurtado/wellfurtado/blob/main/.img/rotatingChair.gif"  />
 
 ###
 
