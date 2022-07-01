@@ -43,19 +43,9 @@
 
 ###
 
-<!--
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/wellfurtado/wellfurtado/blob/main/snake.svg" alt="Snake animation" />
-
--->
-
 ![Snake animation](https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake.svg)
 
-
 ###
-
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wellfurtado.wellfurtado&"  />
