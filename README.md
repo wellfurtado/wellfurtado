@@ -53,4 +53,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wellfurtado.wellfurtado&"  />
 </div>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado)](https://git.io/streak-stats)
+
+
 ###
