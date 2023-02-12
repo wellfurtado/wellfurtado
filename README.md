@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and System Analyst.
 ---------------------------------
 
-⛺ I'm from Amapá, northern Brazil. 🚀 I like web development and smart cities. 🧩 I like at Teamwork. 🦾 I accept new challenges. 🏗️ I'm proactive.
+⛺ I'm from Amapá, northern Brazil.<br>
+🚀 I like web development and smart cities.<br>
+🧩 I like at Teamwork.<br>
+🦾 I accept new challenges.<br>
+🏗️ I'm proactive.
 
 * ✉️  You can contact me at [wellfurtado@gmail.com](mailto:wellfurtado@gmail.com)
 * 🧠  I'm learning Flutter
