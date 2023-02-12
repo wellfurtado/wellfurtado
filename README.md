@@ -1,49 +1,40 @@
-<h1 align="left">Hi 👋! My name is Wellington Damasceno and I'm a System Analyst and Web Developer.</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Wellington Damasceno
+============================================================================================================================================
 
-###
+Web Developer and System Analyst.
+---------------------------------
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=wellfurtado" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=wellfurtado" height="150" alt="languages graph" />
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=dark&hide_border=false&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats) 
-  
-</div>
+⛺ I'm from Amapá, northern Brazil. 🚀 I like web development and smart cities. 🧩 I like at Teamwork. 🦾 I accept new challenges. 🏗️ I'm proactive.
 
-###
+* ✉️  You can contact me at [wellfurtado@gmail.com](mailto:wellfurtado@gmail.com)
+* 🧠  I'm learning Flutter
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="45" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="45" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" width="45" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" width="45" alt="php logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="45" alt="laravel logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="30" width="45" alt="phpstorm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="45" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="45" alt="github logo"  />
-</div>
+### Skills
 
-###
 
-<div align="center">
-  <a href="mailto:wellfurtado@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/wellington-furtado/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/wellfurtado" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="30" alt="telegram logo"  />
-  </a>
-</div>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+</p>
 
-###
 
-<img align="right" height="150" src="https://github.com/wellfurtado/wellfurtado/blob/main/.img/rotatingChair.gif"  />
+### Socials
 
-###
+<p align="left"> <a href="https://www.github.com/wellfurtado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/wellingtonfurtado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/wellington-furtado/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<p align="left">⛺ I'm from Amapá, northern Brazil.<br>🚀 I like web development and smart cities.<br>🧩 Teamwork well<br>🦾 I accept new challenges<br>🤖 Good communication<br>🏗️ Creative</p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/wellfurtado"><img src="https://github-readme-stats.vercel.app/api?username=wellfurtado&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wellfurtado's GitHub stats" /></a>
+
+<a href="http://www.github.com/wellfurtado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/wellfurtado"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=wellfurtado&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/wellfurtado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ###
 
