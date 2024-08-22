@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! 👋 I'm Wellington Damasceno :man_technologist:	 </h1> 
+<h1 align="center">Hello, world! 👋 I'm Wellington Damasceno <!--:man_technologist:-->	👨🏽‍💻 </h1> 
 
 ---
 
