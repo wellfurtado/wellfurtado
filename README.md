@@ -36,6 +36,7 @@
 <a target="_blank" href="https://dev.to/https://dev.to/wellfurtado" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/wellingtonfurtado/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 </p>
+
 ---
 
 # 📊 GitHub Stats:
@@ -43,21 +44,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<a href="http://www.github.com/wellfurtado"><img src="https://github-readme-stats.vercel.app/api?username=wellfurtado&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="wellfurtado's GitHub stats" /></a>
+ok<img src="https://github-readme-stats.vercel.app/api?username=wellfurtado&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="My GitHub stats" />
+<a href="http://www.github.com/wellfurtado"><img src="https://github-readme-stats.vercel.app/api?username=wellfurtado&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="My GitHub stats" /></a>
 <a href="http://www.github.com/wellfurtado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/wellfurtado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/wellfurtado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="my programming languages" /></a>
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
-
+<!--
 <p align="center">
 <a href="https://github.com/wellfurtado">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wellfurtado&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wellfurtado&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
 </a>
 </p>  
+-->
 
 ---
 
@@ -79,7 +80,9 @@
 ###
 
 <div align="right">
+ 
   [![](https://visitcount.itsvg.in/api?id=wellfurtado&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=wellfurtado.wellfurtado&"  />
 </div>
 
