@@ -40,9 +40,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merkok&hide_border=false&include_all_commits=true&count_private=true&custom_title=my%programming%languages)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merkok&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <img src="https://github-readme-stats.vercel.app/api?username=wellfurtado&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="My GitHub stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
