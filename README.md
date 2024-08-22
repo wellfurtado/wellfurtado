@@ -1,5 +1,3 @@
-============================================================================================================================================
-
 <h1 align="center">Hello, world! 👋 I'm Wellington Damasceno :man_technologist:	 </h1> 
 
 <p align="center">
@@ -7,7 +5,8 @@
 </p>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=435&height=60&lines=Mobile+Developer;Android+%7C+Kotlin" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=435&height=60&lines=Mobile+Developer;Android+%7C+Kotlin" alt="Typing SVG" /></a>
+</p>
 
 
 ## 🛠 &nbsp;Tech Stack
@@ -17,16 +16,14 @@
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=fff)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/al1neferreira">
+<a href="https://github.com/wellfurtado">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wellfurtado&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wellfurtado&layout=compact&langs_count=8&theme=merko&include_all_commits=true&count_private=true"/>
 </a>
@@ -43,8 +40,6 @@
 
 
 
-
-============================================================================================================================================
 * 🧠  I'm learning Kotlin and JS
 
 ### Skills
@@ -64,9 +59,9 @@
 
 <a href="http://www.github.com/wellfurtado"><img src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<!--
+
 <a href="http://www.github.com/wellfurtado"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=wellfurtado&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
--->
+
 
 <a href="https://github.com/wellfurtado" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
