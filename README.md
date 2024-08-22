@@ -6,7 +6,7 @@
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
-<img src="<div style="padding-top:133.333%;position:relative;"><iframe src="https://gifer.com/embed/SZ6Q" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>" width="100">
+<img src="https://gifer.com/embed/SZ6Q" width="100">
 </p>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=535&height=60&lines=Mobile+Developer;Android+%7C+IOS+%7C+Kotlin" alt="Typing SVG" /></a>
