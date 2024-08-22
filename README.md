@@ -1,17 +1,8 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-
-
-
-
-
 <h1 align="center">Hello, world! 👋 I'm Wellington Damasceno :man_technologist:	 </h1> 
+
 ---
-* 🧠  I'm learning Kotlin and JS
+
+*🧠  I'm learning Kotlin and JS
 
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100">
@@ -51,18 +42,11 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=true&count_private=true&custom_title=My%20%GitHub%20%Stats)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=My%20%Programming%20%Languages)
-
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=wellfurtado&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="My GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&langs_count=10&theme=merko&include_all_commits=true&count_private=true&locale=en&custom_title=my%programming%languages" alt="my programming languages" />
--->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=wellfurtado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -83,9 +67,8 @@
 
 <div align="right">
  
-  [![](https://visitcount.itsvg.in/api?id=wellfurtado&icon=0&color=0)](https://visitcount.itsvg.in)
- 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wellfurtado.wellfurtado&"  />
+[![](https://visitcount.itsvg.in/api?id=wellfurtado&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=wellfurtado.wellfurtado&"/>
 </div>
 
 ###
