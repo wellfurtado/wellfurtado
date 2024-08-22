@@ -46,7 +46,7 @@
 <div align="center">
  
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&title=My%20GuitHub%20Stats)<br/>
+![My%20GuitHub%20Stats](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&title=My%20GitHub%20Stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
