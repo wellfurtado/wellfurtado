@@ -64,7 +64,7 @@
 
 <img width="700" alt="Snake animation" src="https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake-dark.svg"/>
 
-<!--![snake gif](https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
