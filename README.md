@@ -63,6 +63,7 @@
 
 ![Snake animation](https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake.svg)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=wellfurtado&repo=wellfurtado&theme=react)](https://github.com/wellfurtado/wellfurtado)
 ---
 
 </div>
