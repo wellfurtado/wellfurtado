@@ -60,21 +60,21 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=wellfurtado&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
+---
+
 <!--Gráfico-->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=c9ffb3&line=3cc700&point=00fbff&area=true&hide_border=true)
 
-###
+---
+
 <!--Snake-->
 <img width="800" alt="Snake animation" src="https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake-dark.svg"/>
 
-###
+</div>
 
 ---
 
 <!--Rodapé Visitantes-->
-</div>
-
 <div align="right">
  
 [![](https://visitcount.itsvg.in/api?id=wellfurtado&icon=0&color=0)](https://visitcount.itsvg.in)
