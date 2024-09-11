@@ -65,8 +65,6 @@
 <!--Gráfico-->
 ![](https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=c9ffb3&line=3cc700&point=00fbff&area=true&hide_border=true)
 
----
-
 <!--Snake-->
 <img width="800" alt="Snake animation" src="https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake-dark.svg"/>
 
