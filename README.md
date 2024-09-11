@@ -61,7 +61,7 @@
 
 ###
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=ccffc2&line=2f9e00&point=00fbff&area=true&hide_border=true)]
+[](https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=ccffc2&line=2f9e00&point=00fbff&area=true&hide_border=true)
 
 ###
 <img width="800" alt="Snake animation" src="https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake-dark.svg"/>
