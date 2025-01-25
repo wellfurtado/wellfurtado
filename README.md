@@ -1,78 +1,85 @@
-<h1 align="center">Hello, world! 👋 I'm Wellington Damasceno <!--:man_technologist:-->	👨🏽‍💻 </h1> 
+# Hello! 👋 I'm Wellington Damasceno 👨🏽‍💻  
+### Mobile Developer | Android | Kotlin | Enthusiast of Modern Technologies 🚀  
 
 ---
 
-🧠  I'm learning Kotlin
+## 🛠 Tech Stack  
+<table align="center">
+  <tr>
+    <td><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/JetpackCompose-%230098E1.svg?style=for-the-badge&logo=android&logoColor=white"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
+  </tr>
+</table>
 
+---
+
+## 📊 GitHub Stats  
 <p align="center">
-<!--<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5wYXVpcWQ5ZWl6cmY2aGJkbWt6NTRrNDViN3Axanp5cmYwMHR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sLoRDJqV5XoOScXOuH/giphy.gif" width="100"><br />-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=42F746&center=true&random=false&width=535&height=60&lines=Mobile+Developer;Android+%7C+IOS+%7C+Kotlin" alt="Typing SVG" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&custom_title=My%20GitHub%20Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merko&hide_border=false" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
 ---
 
-## 🛠 &nbsp; Tech Stack
-<div align="center">
-<p>
- 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!--![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)-->
-<!--![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;-->
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-<!--![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)<br />-->
-<!--![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)-->
-<!--![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)-->
-<!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-</p>
-</div>
-
----
- 
-## 🤝🏻 &nbsp; Connect with Me
+## 🤝 Connect with Me  
 <p align="center">
-<a href="https://www.linkedin.com/in/wellington-furtado/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:wellfurtado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a target="_blank" href="https://dev.to/wellfurtado" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.instagram.com/wellingtonfurtado/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+  <a href="https://www.linkedin.com/in/wellington-furtado/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:wellfurtado@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://dev.to/wellfurtado">
+    <img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/wellingtonfurtado/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<div align="center">
- 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&custom_title=My%20GitHub%20Stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merko&hide_border=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wellfurtado&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=wellfurtado&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=wellfurtado&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</p>
 
 ---
 
-<!--Gráfico-->
-![](https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=c9ffb3&line=3cc700&point=00fbff&area=true&hide_border=true)
-
-<!--Snake-->
-<img width="800" alt="Snake animation" src="https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+### 🔝 Top Contributed Repo  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=wellfurtado&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
 
-<!--Rodapé Visitantes-->
+<!--Gráfico de Contribuição-->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=c9ffb3&line=3cc700&point=00fbff&area=true&hide_border=true"/>
+</p>
+
+<!--Snake Animation-->
+<p align="center">
+  <img src="https://github.com/wellfurtado/wellfurtado/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!--Rodapé de Contagem de Visitantes-->
 <div align="right">
  
 [![](https://visitcount.itsvg.in/api?id=wellfurtado&icon=0&color=0)](https://visitcount.itsvg.in)
