@@ -1,21 +1,44 @@
 # Hello! 👋 I'm Wellington Damasceno 👨🏽‍💻  
-### Mobile Developer | Android | Kotlin | Enthusiast of Modern Technologies 🚀  
+### Developer | Mobile • Python • Web | Enthusiast of Modern Technologies 🚀  
+
+---
+
+## 👨🏽‍💻 About Me
+- 📱 Mobile developer focused on **Android** with **Kotlin**
+- 🐍 Studying and building projects with **Python**
+- 🌐 Expanding my skills in **Web Development**
+- 🚀 Passionate about technology, innovation, projects for fundraising, and continuous learning
 
 ---
 
 ## 🛠 Tech Stack  
-<table align="center">
-  <tr>
-    <td><img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/JetpackCompose-%230098E1.svg?style=for-the-badge&logo=android&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/></td>
-  </tr>
-</table>
+
+### Mobile Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%230098E1.svg?style=for-the-badge&logo=android&logoColor=white"/>
+</p>
+
+### Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+</p>
+
+### Tools & Version Control
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Currently Learning
+- Python for automation and backend development
+- Modern web development
+- Building real-world projects for my portfolio
 
 ---
 
