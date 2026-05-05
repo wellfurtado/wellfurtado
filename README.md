@@ -47,7 +47,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&custom_title=My%20GitHub%20Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=wellfurtado&theme=merko&hide_border=false" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wellfurtado&exclude_repo=github-readme-stats,anuraghazra.github.io)
 </p>
 
 ---
