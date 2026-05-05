@@ -76,20 +76,6 @@
 
 ---
 
-### ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
-
----
-
-### 🔝 Top Contributed Repo  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=wellfurtado&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
 <!--Gráfico de Contribuição-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wellfurtado&bg_color=000000&color=c9ffb3&line=3cc700&point=00fbff&area=true&hide_border=true"/>
